@@ -10,7 +10,7 @@ const help = (p, hr, pushname, prema, checATM, useLevel, useXp, requireXp, patt,
 ┃▻ Xᴘ : ${useXp}/${requireXp}
 ┃▻ Rᴀɴɢᴏ : ${patt}                        
 ┣━━━━━━「★」━━━━━━━◥
-┃       〖 Tʀᴀsʜ-ʙᴏT 〛
+┃       〖 Rᴇʏᴍɪsᴛ-ʙᴏᴛ 〛
 ┣━━━━━━━━━━━━━━━◢
 ┃  ◁ 🅜🅔🅝🅤🅢 ▷
 ┃
@@ -37,6 +37,7 @@ const help = (p, hr, pushname, prema, checATM, useLevel, useXp, requireXp, patt,
 ┃▻ Bᴀᴛᴇʀɪᴀ : ${bateria}
 ┃
 ┣━━━━━━━━━━━━◢
+┃Pʀᴏᴘɪᴇᴛᴀʀɪᴏ : REYMIST OFC
 ┗━━━━━°•✮•°━━━━━━┛`
 }
 exports.help = help
