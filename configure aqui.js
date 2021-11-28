@@ -1,7 +1,7 @@
 
 {
 	"p": "/",
-	"OwnerNumber": "5493813959749",
-	"SeuNome": "Mᴀᴜᴜ-ᴍᴏᴅᴇʀ",
-	"NomeDoBot": "ƭɾαรɦ-ɓσƭ (σƒc)"
+	"OwnerNumber": "525627127956",
+	"SeuNome": "REYMIST-OFC",
+	"NomeDoBot": "REYMIST-BOT"
 }
