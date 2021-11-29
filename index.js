@@ -5167,7 +5167,7 @@ break
 //<~FIM DOS COMANDOS DE ANIMES
 
 //<~COMEÇO DOS COMANDOS DO DONO
-case 'mcreador':
+case 'menucreador':
 addFilter(from)
 if (isLimit(sender)) return webPage(linguagem.cash_adquirir(pushname, p), {quoted: mek}) 
 if (!isOwner) return enviar(linguagem.criadores(p))
