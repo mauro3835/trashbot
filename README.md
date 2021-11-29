@@ -2,7 +2,7 @@ ___
 ### COMANDOS DE INSTALACIÓN ABAJO ☕✔️
 </h1>
     <p>
-        <img src= "https://s9.gifyu.com/images/12163.gif">
+        <img src= "http://pa1.narvii.com/6289/fda51fb08b124dc5ccf11c967fc6f257f15abbf5_00.gif">
     </p>
     
  ___
