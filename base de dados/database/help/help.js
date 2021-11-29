@@ -26,7 +26,7 @@ const help = (p, hr, pushname, prema, checATM, useLevel, useXp, requireXp, patt,
 ┃
 ┃➣/Pʀᴇᴍɪᴜᴍ
 ┃
-┃➣/Mᴄʀᴇᴀᴅᴏʀ
+┃➣/Mᴇɴᴜᴄʀᴇᴀᴅᴏʀ
 ┃
 ┣━━━━━━━━━━━━◥
 ┃  ◁ Iɴғᴏ ᴅᴇʟ ʙᴏᴛ ▷
