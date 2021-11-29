@@ -2,7 +2,7 @@ ___
 ## 🖤🌹 Deluxe-bot
 </h1>
     <p>
-        <img src= "http://pa1.narvii.com/6289/fda51fb08b124dc5ccf11c967fc6f257f15abbf5_00.gif">
+        <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKpg2M2lKiAeEgJWhex52uNEnXAeevfrno3A&usqp=CAU">
     </p>
     
  ___
