@@ -13,25 +13,25 @@ comandos del bot.
 Copia y pega los comandos a termux
 
 ```
- apt update && apt upgrade
+apt update && apt upgrade
 ```
 ```
- pkg install nodejs
+pkg install nodejs
 ```
 ```
 pkg install ffmpeg
 ```
 ```
- pkg install git
+pkg install git
 ```
 ```
- https://github.com/mauro3835/trashbot
+https://github.com/mauro3835/trashbot
 ```
  ```
- cd trashbot
+cd trashbot
  ```
  ```
- npm start
+npm start
  ```
 Luego te saldra un código QR y lo escaneas
 ___
