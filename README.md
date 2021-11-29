@@ -6,8 +6,9 @@ ___
     </p>
     
  ___
-# 🌟 Te presento Deluxe-bot
-# ✔️ Aquí están los comandos del bot
+# Comandos de instalación
+✔️ Aquí están los
+comandos del bot.
 
 Copia y pega los comandos a termux
 
